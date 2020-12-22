@@ -1,0 +1,22 @@
+﻿name,parent,value,electoral,party
+Origin,,
+California,Origin,16800000,55,Democratic
+Texas,Origin,11300000,38,Republican
+Florida,Origin,11150000,29,Republican
+New York,Origin,8930000,29,Democratic
+Pennsylvania,Origin,6900000,20,Democratic
+Illinois,Origin,6100000,20,Democratic
+Ohio,Origin,6100000,18,Republican
+North Carolina,Origin,5600000,15,Republican
+Michigan,Origin,5559186,16,Democratic
+Georgia,Origin,5025000,16,Democratic
+New Jersey,Origin,4495000,14,Democratic
+Virginia,Origin,4425000,13,Republican
+Washington,Origin,4100000,12,Democratic
+Massachusetts,Origin,3725000,11,Democratic
+Arizona,Origin,3400000,11,Democratic
+Wisconsin,Origin,3325000,10,Democratic
+Colorado,Origin,3295000,9,Democratic
+Minnesota,Origin,3290000,10,Democratic
+Indiana,Origin,3070000,11,Republican
+Tennessee,Origin,3060000,11,Republican
